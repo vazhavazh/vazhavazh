@@ -15,7 +15,7 @@ I'm frontend developer with a passion for creating user-friendly interfaces and 
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Vazh Chkimikocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vazha-chkimikocha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a>
 <a href="https://t.me/vazhavazhav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a>
   <a href="https://djinni.co/q/5214d8be91/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGwOY_QbskskNZRxrpWBZikft9YB3FTgKi9flB6GYkA&s" alt="Vazh Chkimikocha" height="30" width="40" /></a>
 </p>
