@@ -6,26 +6,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Frontend Developer
 -------------------------
 
-I'm an aspiring frontend developer with a passion for creating user-friendly interfaces and enhancing web experiences
+I'm frontend developer with a passion for creating user-friendly interfaces and enhancing web experiences =)
 
 * 🌍  I'm based in Kyiv
 * 🤝  I'm open to collaborating on intersting projects
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vazhavazh&label=Profile%20views&color=0e75b6&style=flat" alt="vazhavazh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vazhavazh&theme=monokai" alt="vazhavazh" /></a> </p>
-
-
-
-
-<div> <a href="https://www.linkedin.com/in/Vazh Chkimikocha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/vazhavazh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Vazh Chkimikocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/Vazh Chkimikocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a>
+<a href="https://t.me/vazhavazhav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a>
+  <a href="https://djinni.co/q/5214d8be91/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGwOY_QbskskNZRxrpWBZikft9YB3FTgKi9flB6GYkA&s" alt="Vazh Chkimikocha" height="30" width="40" /></a>
+
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
