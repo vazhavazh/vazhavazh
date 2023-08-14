@@ -11,15 +11,18 @@ I'm frontend developer with a passion for creating user-friendly interfaces and 
 * 🌍  I'm based in Kyiv
 * 🤝  I'm open to collaborating on intersting projects
 
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Vazh Chkimikocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a>
 <a href="https://t.me/vazhavazhav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Vazh Chkimikocha" height="30" width="40" /></a>
   <a href="https://djinni.co/q/5214d8be91/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGwOY_QbskskNZRxrpWBZikft9YB3FTgKi9flB6GYkA&s" alt="Vazh Chkimikocha" height="30" width="40" /></a>
-
-
 </p>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -44,10 +47,14 @@ I'm frontend developer with a passion for creating user-friendly interfaces and 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="60" height="60"/>
 </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazhavazh&langs_count=8&theme=dark" alt=vazhavazh />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vazhavazh&show_icons=true&locale=en&theme=dark" alt="vazhavazh" /></p>
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
