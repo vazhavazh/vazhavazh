@@ -8,7 +8,7 @@ Frontend Developer
 
 I'm frontend developer with a passion for creating user-friendly interfaces and enhancing web experiences =)
 
-* 🌍  I'm based in Kyiv
+* 🌍  I'm based in Germany
 * 🤝  I'm open to collaborating on intersting projects
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
